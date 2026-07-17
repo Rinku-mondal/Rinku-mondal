@@ -21,7 +21,9 @@ I'm **Rinku Mondal**, a code analyst passionate about software development and o
 - Helping with Python and database-related questions
 
 ### 📫 Connect With Me
-- 🔗 [Facebook](https://www.facebook.com/share/1GqqeRRiA5/)
+- 📧 **Email**: [rinkurinku.kiran@gmail.com](mailto:rinkurinku.kiran@gmail.com)
+- 💬 **Telegram**: [@Rinkumondal_123](https://t.me/Rinkumondal_123)
+- 🔗 **Facebook**: [Facebook Profile](https://www.facebook.com/share/1GqqeRRiA5/)
 - 💼 Open to collaborating on repositories where I can make a meaningful impact
 
 ### 🎯 My Goal
