@@ -38,8 +38,23 @@
 
 ---
 
-### 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Rinku-mondal&show_icons=true&theme=radial&hide_border=true)
+### 📊 GitHub Stats & Analytics
+
+<div align="center">
+  
+#### GitHub Overview
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rinku-mondal&show_icons=true&theme=tokyonight&hide_border=false&count_private=true)
+
+#### Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rinku-mondal&layout=compact&theme=tokyonight&hide_border=false)
+
+#### GitHub Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rinku-mondal&theme=tokyonight&hide_border=false)
+
+#### Profile Summary
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rinku-mondal&theme=tokyonight)
+
+</div>
 
 ---
 
