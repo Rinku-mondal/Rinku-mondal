@@ -40,21 +40,18 @@
 
 ### 📊 GitHub Stats & Analytics
 
-<div align="center">
-  
-#### GitHub Overview
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rinku-mondal&show_icons=true&theme=tokyonight&hide_border=false&count_private=true)
+<p align="center">
+  <!-- Dynamic Activity Graph (The one that works perfectly for you) -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rinku-mondal&theme=react-dark" alt="Rinku's Activity Graph" width="100%" />
+</p>
 
-#### Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rinku-mondal&layout=compact&theme=tokyonight&hide_border=false)
+<p align="center">
+  <!-- Reliable alternative Profile Summary Metrics -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rinku-mondal&theme=neutral" alt="GitHub Metrics" width="48%" />
+  <!-- Reliable alternative Top Languages Tracker -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rinku-mondal&theme=neutral" alt="Top Languages" width="48%" />
+</p>
 
-#### GitHub Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rinku-mondal&theme=tokyonight&hide_border=false)
-
-#### Profile Summary
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rinku-mondal&theme=tokyonight)
-
-</div>
 
 ---
 
